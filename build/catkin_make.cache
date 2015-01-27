@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/dulluhan/Desktop/ROS_GPS/devel -DCMAKE_INSTALL_PREFIX=/home/dulluhan/Desktop/ROS_GPS/install -G Unix Makefiles
