@@ -1,0 +1,8 @@
+prefix=/home/dulluhan/Desktop/Snowbots/devel
+
+Name: sb_gps
+Description: Description of sb_gps
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dulluhan/Desktop/Snowbots/devel/lib 
+Requires: roscpp rospy std_msgs sb_msgs
