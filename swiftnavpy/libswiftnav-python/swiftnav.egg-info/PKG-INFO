@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: swiftnav
+Version: v0.10.post15-g76e5a7f
+Summary: Python bindings to the libswiftnav library.
+Home-page: http://www.swift-nav.com
+Author: Fergus Noble
+Author-email: fergus@swift-nav.com
+License: LGPLv3
+Description: UNKNOWN
+Platform: UNKNOWN
